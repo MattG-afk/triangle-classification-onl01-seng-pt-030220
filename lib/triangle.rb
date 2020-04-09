@@ -28,3 +28,5 @@ class TriangleError < StandardError
    "side must be greater than 0"
 end
 
+
+
