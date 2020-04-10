@@ -24,10 +24,10 @@ class Triangle
     end
 
   end
+  
+  
 
 end
 
-  class TriangleError < StandardError
-   "size must be over 0"
-  end
+
 
