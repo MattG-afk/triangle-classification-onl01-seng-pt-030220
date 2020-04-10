@@ -27,7 +27,7 @@ class Triangle
 
 end
 
-class TriangleError < StandardError
+  class TriangleError < StandardError
    "size must be over 0"
-end
+  end
 
